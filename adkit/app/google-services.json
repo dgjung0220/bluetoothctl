@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171581473702",
+    "firebase_url": "https://embedded-board-monitoring.firebaseio.com",
+    "project_id": "embedded-board-monitoring",
+    "storage_bucket": "embedded-board-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171581473702:android:2428d89aada8f1fb",
+        "android_client_info": {
+          "package_name": "com.hmc.adkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171581473702-kbgi24dq2i1e64laarkc8lo6mam5ovre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dlwc_HFO3mLyEPcvLSKW-m3k-IeOAow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171581473702-kbgi24dq2i1e64laarkc8lo6mam5ovre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
